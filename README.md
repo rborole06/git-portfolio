@@ -1,6 +1,7 @@
 # git-portfolio
 This repository includes only links to source codes from Git or Bitbucket and source code contains personal work / samples developed.
 
+Link to Github profile - [Black Cat][6]
 ## Front End
 
 [React tic tac toe game][2]
@@ -34,19 +35,4 @@ Using plain Javascript and WebGL2 - [threejs-demos][5]
 [3]: https://bitbucket.org/rborole06/rahulborolertrassignments/src/master/
 [4]: https://github.com/rborole06/webgl-demos
 [5]: https://github.com/rborole06/threejs-demos
-
-
-[6]: https://w3c.github.io/gamepad/extensions.html
-[7]: https://lists.w3.org/Archives/Public/public-webvr/
-[8]: https://github.com/immersive-web/webxr/issues
-[10]: https://github.com/tabatkins/bikeshed
-[11]: https://github.com/web-platform-tests/wpt
-[12]: https://github.com/web-platform-tests/wpt/issues/new
-[13]: http://www.w3.org/Consortium/Legal/2015/copyright-software-and-document
-[14]: https://www.w3.org/community/about/agreements/cla/
-[15]: https://www.w3.org/Consortium/Legal/2008/03-bsd-license.html
-[16]: https://immersive-web.github.io/webxr-reference/
-[17]: https://w3.org/immersive-web
-[18]: https://immersive-web.github.io/homepage/code-of-conduct.html
-[19]: https://github.com/immersive-web/proposals
-[20]: https://lists.w3.org/Archives/Public/public-immersive-web/
+[6]: https://github.com/rborole06
