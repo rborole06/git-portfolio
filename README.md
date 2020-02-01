@@ -23,11 +23,15 @@ Repository contains repeating 25 assignments for 7 platforms as per below.
 
 So, here it is the link to source code - [RahulBoroleRTRAssignments][3]
 
-## Special Effects ( Platform - Web)
+## Special Effects (Platform - Web)
 Using plain Javascript and WebGL2 - [webgl-demos][4]
 
 ## Three JS
 Using plain Javascript and WebGL2 - [threejs-demos][5]
+
+## Next Step
+Trying to create as much as possible demos in above provided technologies.
+Also, exploring and interested to learn WebXR, AR / VR / MR, WebAssembly in near future.
 
 <!-- Links -->
 [1]: https://reactjs.org/tutorial/tutorial.html
